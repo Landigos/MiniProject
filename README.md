@@ -17,7 +17,7 @@ Considering that the city does not even have a basic website, I will need to mak
 <li>Information about public transportation,if there even is any</li>
 <li>Maybe schedule of work for administrative institutions (hospitals, client departments)</li>
 
-![Ozolnieki_street](https://github.com/Landigos/MiniProject/blob/main/640px-Mika_iela_Ozolniekos.jpg?raw=true)
+![Ozolnieki_street](https://github.com/Landigos/MiniProject/blob/main/640px-Mika_iela_Ozolniekos.jpg?raw=true =750x300)
 
-![Ozolnieki](https://github.com/Landigos/MiniProject/blob/main/Ozolnieku_pagasts_LocMap.png?raw=true)
+![Ozolnieki](https://github.com/Landigos/MiniProject/blob/main/Ozolnieku_pagasts_LocMap.png?raw=true =750x300)
 
