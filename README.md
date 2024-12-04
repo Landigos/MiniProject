@@ -19,5 +19,5 @@ Considering that the city does not even have a basic website, I will need to mak
 
 ![Ozolnieki_street](https://github.com/Landigos/MiniProject/blob/main/640px-Mika_iela_Ozolniekos.jpg?raw=true)
 
-![Ozolnieki](https://github.com/Landigos/MiniProject/blob/main/Ozolnieku_pagasts_LocMap.png?raw=true=750x300)
+![Ozolnieki](https://github.com/Landigos/MiniProject/blob/main/Ozolnieku_pagasts_LocMap.png?raw=true)
 
