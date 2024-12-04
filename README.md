@@ -18,3 +18,5 @@ Considering that the city does not even have a basic website, I will need to mak
 <li>Maybe schedule of work for administrative institutions (hospitals, client departments)</li>
 ![640px-Mika_iela_Ozolniekos](https://github.com/user-attachments/assets/0f7d5f97-b5ad-409f-9204-a3b7c25e8306)
 ![Ozolnieku_pagasts_LocMap](https://github.com/user-attachments/assets/9139f041-7ffc-461a-b80c-d61a8fb8d2b4)
+
+![Ozolnieki](https://github.com/Landigos/MiniProject/blob/main/Ozolnieku_pagasts_LocMap.png?raw=true)
