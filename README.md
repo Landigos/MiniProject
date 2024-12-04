@@ -1,2 +1,2 @@
 # MiniProject
-I guess, here goes the text about presentation?
+Here will be a site about Ozolnieki :D
