@@ -1,5 +1,5 @@
 # MiniProject
-Here will be a info about Ozolnieki :D
+Here is the site: https://ozolnieki.wordpress.com/
 
 Considering that the city does not even have a basic website, I will need to make a complete website, with various basic information, possible references to interesting places, history of the city, etc.
 
