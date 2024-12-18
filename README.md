@@ -21,7 +21,7 @@ Considering that the city does not even have a basic website, I will need to mak
 
 ![Ozolnieki](https://github.com/Landigos/MiniProject/blob/main/Ozolnieku_pagasts_LocMap.png?raw=true)
 
-<strong> What we have done already?</strong>
+<strong> What i have done already?</strong>
 <li>Main page, on which there is little bit of history, where the name comes from, and recent news</li>
 <li>News archive page, on which we can see all the news(first variant), to be choosen</li>
 <li>News archive page, on which we can see all the news(second variant), to be choosen</li>
