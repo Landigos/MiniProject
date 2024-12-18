@@ -21,3 +21,14 @@ Considering that the city does not even have a basic website, I will need to mak
 
 ![Ozolnieki](https://github.com/Landigos/MiniProject/blob/main/Ozolnieku_pagasts_LocMap.png?raw=true)
 
+<strong> What we have done already?</strong>
+<li>Main page, on which there is little bit of history, where the name comes from, and recent news</li>
+<li>News archive page, on which we can see all the news(first variant), to be choosen</li>
+<li>News archive page, on which we can see all the news(second variant), to be choosen</li>
+<li>Bus stops page, where are placed all the bus stops as a list, and a interactive map, which could help finding those</li>
+
+<strong> Maybe,some suggestions?</strong>
+<li>Probably, to add some about current weather and etc</li>
+<li>Maybe, to add another page, on which would be information about administrative buildings and their hours of work(i still didn't found them)</li>
+
+
